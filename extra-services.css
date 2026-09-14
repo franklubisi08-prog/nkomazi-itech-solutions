@@ -8,7 +8,7 @@ a{text-decoration:none;color:inherit}
 .nav a{color:#fff;font-size:.88rem;font-weight:700;text-decoration:underline;text-underline-offset:5px}
 .nav a:hover,.nav a.active{opacity:.72}
 .menu-toggle{display:none;background:none;border:0;color:#fff;font-size:30px;cursor:pointer}
-.hero{min-height:76vh;position:relative;display:flex;align-items:center;justify-content:center;text-align:center;padding:130px 7% 80px;background:url("images/image20.jpg") center center/cover no-repeat fixed}
+.hero{min-height:76vh;position:relative;display:flex;align-items:center;justify-content:center;text-align:center;padding:130px 7% 80px;background:url("images/image20.jpeg") center center/cover no-repeat fixed}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.78),rgba(0,0,0,.45),rgba(0,0,0,.78))}
 .hero-content{position:relative;z-index:1;max-width:900px;color:#fff}
 .eyebrow{font-size:.82rem;letter-spacing:3px;font-weight:800;margin-bottom:12px}
